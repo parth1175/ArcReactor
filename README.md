@@ -32,3 +32,5 @@ Steps:
 4) .....
 
 Ultimately, Accidiently blew the LEDS during testing phase. Got too excited and wired the 9V power sources directly to the LED ;(
+
+Credits: https://www.youtube.com/watch?v=QTlXr9m182c&t=434s
